@@ -63,7 +63,6 @@ Copy code
 python visualize.py
 This will generate an output video with bounding boxes and recognized license plate numbers.
 
-### 🎨 Example Output
 
 
 ### 🤝 Contributing
