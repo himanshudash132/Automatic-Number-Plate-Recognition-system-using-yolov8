@@ -50,23 +50,25 @@ pip install -r requirements.txt
 ### 2. 📊 Running the Application
 To run the ANPR system on your sample video, execute the following command:
 
-bash
+```bash
 Copy code
 python main.py
+```
 This will process the video, detect vehicles and license plates, and save the results to test.csv.
 
 ### 3. 📈 Visualizing the Results
 After processing, you can visualize the results by running:
 
-bash
+```bash
 Copy code
 python visualize.py
+```
 This will generate an output video with bounding boxes and recognized license plate numbers.
 
 
 
-### 🤝 Contributing
+### 4. 🤝 Contributing
 Contributions are welcome! If you find any bugs 🐛 or have suggestions 💡 for improvements, feel free to open an issue or submit a pull request.
 
-### 📧 Contact
+### 5. 📧 Contact
 For any questions or inquiries, feel free to reach out at himanshudash132@example.com 📩. 
